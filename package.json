@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@foundy.github.com:foundy/foundy.test-pack.git"
+    "url": "git@github.com:foundy/foundy.test-pack.git"
   },
   "keywords": [],
   "author": "foundy <foundy@foundy.io>",
