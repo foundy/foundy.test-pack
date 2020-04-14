@@ -1,6 +1,6 @@
 {
   "name": "@foundy/test-pack",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "테스트",
   "main": "index.js",
   "scripts": {
