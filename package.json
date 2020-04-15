@@ -1,6 +1,6 @@
 {
   "name": "@foundy/test-pack",
-  "version": "0.2.1",
+  "version": "2.0.0",
   "description": "테스트",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:foundy/foundy.test-pack.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [],
   "author": "foundy <foundy@foundy.io>",
