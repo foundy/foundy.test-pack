@@ -95,7 +95,7 @@ program
 	program
 		.command('info')
 		.description('show info')
-		.options('-d, --debug', 'debug mode')
+		.option('-d, --debug', 'debug mode')
 		.action(async (cmd) => {
 			const options = cmd.opts();
 
