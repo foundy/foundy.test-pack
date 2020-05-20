@@ -12,7 +12,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "bin": "./cli.js",
+  "bin": {
+    "foundy-test-pack": "./cli.js"
+  },
   "keywords": [],
   "author": "foundy <foundy@foundy.io>",
   "license": "ISC",
