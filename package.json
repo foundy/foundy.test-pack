@@ -12,7 +12,13 @@
   "publishConfig": {
     "access": "public"
   },
+  "bin": "./cli.js",
   "keywords": [],
   "author": "foundy <foundy@foundy.io>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "ora": "^4.0.4"
+  }
 }
