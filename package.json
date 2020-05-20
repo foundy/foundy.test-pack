@@ -1,6 +1,6 @@
 {
   "name": "@foundy/test-pack",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "테스트",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
