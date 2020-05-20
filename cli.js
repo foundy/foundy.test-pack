@@ -99,7 +99,7 @@ program
 		.action(async (cmd) => {
 			const options = cmd.opts();
 
-			spinner.start(colors.yellow('global link..'));
+			spinner.start(colors.yellow('info..'));
 
 			await sleep(1000);
 
@@ -114,7 +114,7 @@ program
 				return;
 			}
 
-			spinner.succeed(colors.green('global link done.'));
+			spinner.succeed(colors.green('info done.'));
 		});
 
 program.parse(process.argv);
